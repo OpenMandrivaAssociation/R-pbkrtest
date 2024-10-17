@@ -7,7 +7,7 @@ Release:          1
 Summary:          Parametric bootstrap and Kenward Roger based methods for mixed model comparison
 Group:            Sciences/Mathematics
 License:          GPLv2+
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_0.3-7.tar.gz
 
 Requires:         R-MASS R-lme4 R-parallel 
